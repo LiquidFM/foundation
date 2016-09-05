@@ -1,0 +1,12 @@
+[submodule "platform"]
+	path = platform
+	url = git@github.com:LiquidFM/platform.git
+[submodule "efc"]
+	path = efc
+	url = git@github.com:LiquidFM/efc.git
+[submodule "brolly"]
+	path = brolly
+	url = git@github.com:LiquidFM/brolly.git
+[submodule "lvfs"]
+	path = lvfs
+	url = git@github.com:LiquidFM/lvfs.git
